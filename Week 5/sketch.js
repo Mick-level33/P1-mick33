@@ -58,7 +58,7 @@ function draw() {
     textSize(35);
     text("QUIZ", 30, 180);
 
-    // Uitleg over welke games
+    // Uitleg over welke games.
     fill(190);
     textSize(16);
     text("God of War (2018)", 30, 260);
